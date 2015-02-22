@@ -49,7 +49,7 @@ extracted_data = mergedata[c("subject", "activity", extract_col)]
 
 
 
-##STEP 3
+##STEP 3 & 4
 #activity label
 for( i in 1:10299){
   if(extracted_data$activity[i] == 1)
