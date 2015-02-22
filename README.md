@@ -1,5 +1,5 @@
 # Getting-and-cleaning-data-project
-## run_analysis.R
+## Introduction :run_analysis.R
 
 The project required us to do a number of steps to finally form a tidy set of data(that follows all the principles of the tidy
 dataset).
