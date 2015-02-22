@@ -2,7 +2,7 @@
 ## run_analysis.R
 
 The project required us to do a number of steps to finally form a tidy set of data(that follows all the principles of the tidy
-dataset.
+dataset).
 The code run_analysis.R, therfore has been written step wise for covering all the action.
 
   The 1st step has been to merge the two datasets (train and test data), for this first I formed the two datasets completely
